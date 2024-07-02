@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It facilitates user registration and authentication, allows posting and renting of sports and recreational equipment with detailed listings, integrates a PayPal-linked payment gateway, enables chat and conversations between owners and renters, supports item reviews, and provides blogging capabilities.
 
 ## Available Scripts
 
